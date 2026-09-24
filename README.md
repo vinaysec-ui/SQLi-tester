@@ -1,1 +1,1 @@
-# SQLi-tester-
+# SQLi-tester
