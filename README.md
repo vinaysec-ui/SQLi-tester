@@ -17,6 +17,7 @@ A lightweight, automated SQL Injection vulnerability scanner written in Python. 
 Usage
 
 python3 sqli_tester.py <URL> <PARAMETER>
+
 Examples
 
 # Test DVWA SQLi page (security set to Low)
